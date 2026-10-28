@@ -1,0 +1,17 @@
+# Archivos compilados de Java
+*.class
+
+# Directorios de compilación de Eclipse
+bin/
+target/
+
+# Configuración local de Eclipse
+.settings/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
